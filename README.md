@@ -11,3 +11,5 @@
 Launch VS Code Quick Open (⌘+P for Mac, CTRL+P for Windows), paste the following command, and press enter.
 
 `ext install vscode-chester-atom`
+
+Visit [https://marketplace.visualstudio.com/items?itemName=chriseckenrode.vscode-chester-atom](https://marketplace.visualstudio.com/items?itemName=chriseckenrode.vscode-chester-atom) for more information.
