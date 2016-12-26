@@ -1,7 +1,7 @@
 {
   "name": "vscode-chester-atom",
   "displayName": "vscode chester atom",
-  "description": "A Visual Studio Code port of the Chester Atom Theme. Optimized for use with the Operator Mono typeface.",
+  "description": "A Visual Studio Code theme based on the colors used in the Chester Atom Syntax Theme. Optimized for use with the Operator Mono typeface.",
   "version": "0.0.1",
   "publisher": "chriseckenrode",
   "engines": {
