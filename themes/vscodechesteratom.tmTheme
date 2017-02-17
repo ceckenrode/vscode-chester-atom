@@ -51,7 +51,7 @@
 			<key>name</key>
 			<string>Number</string>
 			<key>scope</key>
-			<string>constant.numeric</string>
+			<string>constant.numeric, constant.other</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -73,7 +73,7 @@
 			<key>name</key>
 			<string>User-defined constant</string>
 			<key>scope</key>
-			<string>constant.character, constant.other</string>
+			<string>constant.character</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
