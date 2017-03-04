@@ -70,6 +70,17 @@
         </dict>
       </dict>
       <dict>
+  			<key>name</key>
+  			<string>Unused Comment</string>
+  			<key>scope</key>
+  			<string>unused.comment</string>
+  			<key>settings</key>
+  			<dict>
+  				<key>foreground</key>
+  				<string>#99A9B3</string>
+  			</dict>
+  		</dict>
+      <dict>
         <key>name</key>
         <string>User-defined constant</string>
         <key>scope</key>
