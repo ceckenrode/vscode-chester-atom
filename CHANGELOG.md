@@ -16,3 +16,7 @@
 ## 0.1.7 - Update Support for JS Class/Constructor names
 
 * Improve syntax coloring for JavaScript classes and constructors
+
+## 0.1.8 - Add Workbench theme
+
+* Add workbench color theme
