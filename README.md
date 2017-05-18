@@ -2,9 +2,11 @@
 ---
 ### A theme based on the colors used in the [Chester Atom Syntax Theme](https://github.com/csutter/chester-atom-syntax) for Atom. Optimized for use with the Operator Mono Typeface.
 
-![Vue](Images/01-Vue.png)
-![ES6 React](Images/02-React-ES6.png)
-![Vue HTML](Images/03-Vue-HTML.png)
+![1](Images/1.png)
+![2](Images/2.png)
+![3](Images/3.png)
+
+![4](Images/4.png)
 
 ### Installation Instructions:
 
@@ -16,7 +18,7 @@ Visit [https://marketplace.visualstudio.com/items?itemName=chriseckenrode.vscode
 
 ### Contributing
 
-If you have an improvement, feel free to submit a pull request along with a screenshot of how the change will affect syntax coloring.
+If you have an improvement, feel free to submit a [pull request](https://github.com/ceckenrode/vscode-chester-atom) along with a screenshot of how the change will affect syntax coloring.
 
 I personally develop primarily HTML, CSS, and JavaScript. So I very much welcome PR's that improve usability with other languages.
 
@@ -25,5 +27,5 @@ I personally develop primarily HTML, CSS, and JavaScript. So I very much welcome
 * Christian Eckenrode
 
   * [Github](https://github.com/ceckenrode/)
-  * [Twitter](https://github.com/cseckenrode/)
+  * [Twitter](https://twitter.com/cseckenrode/)
   * [LinkedIn](https://www.linkedin.com/in/christianeckenrode/)
