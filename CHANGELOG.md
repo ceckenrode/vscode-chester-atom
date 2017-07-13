@@ -20,3 +20,7 @@
 ## 0.1.8 - Add Workbench theme
 
 * Add workbench color theme
+
+## 0.1.9 - Add Workbench border
+
+* Add workbench border
