@@ -87,7 +87,6 @@
       "name": "Operator",
       "scope": "keyword.operator",
       "settings": {
-        "fontName": "Fira Code",
         "foreground": "#89BDE4"
       }
     },
@@ -109,9 +108,10 @@
     },
     {
       "name": "Storage type C",
-      "score": "storage.type.c",
+      "scope": "storage.type.c",
       "settings": {
-        "foreground": "#FF708E"
+        "foreground": "#FF708E",
+        "fontStyle": ""
       }
     },
     {

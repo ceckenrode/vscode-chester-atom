@@ -28,3 +28,7 @@
 ## 0.1.10 - Remove italic for c programming identifier
 
 * Remove italic for c programming identifier
+
+## 0.1.11 - Remove bold for c programming identifier
+
+* Remove bold for c programming identifier
