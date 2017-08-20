@@ -24,3 +24,7 @@
 ## 0.1.9 - Add Workbench border
 
 * Add workbench border
+
+## 0.1.10 - Remove italic for c programming identifier
+
+* Remove italic for c programming identifier
