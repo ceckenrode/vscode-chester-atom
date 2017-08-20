@@ -108,6 +108,13 @@
       }
     },
     {
+      "name": "Storage type C",
+      "score": "storage.type.c",
+      "settings": {
+        "foreground": "#FF708E"
+      }
+    },
+    {
       "name": "Class name",
       "scope": "entity.name.type.class, meta.class.instance.constructor",
       "settings": {
