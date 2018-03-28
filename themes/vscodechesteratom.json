@@ -8,6 +8,7 @@
     "editorCursor.foreground": "#f8f8f2",
     "editorWhitespace.foreground": "#222a34",
     "editorLineNumber.foreground": "#99A9B3",
+    "editorWidget.background": "#2c3643",
     "tab.activeBackground": "#2c3643",
     "activityBar.background": "#242D38",
     "sideBar.background": "#2c3643",
