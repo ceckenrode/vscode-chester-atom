@@ -33,6 +33,6 @@
 
 * Remove bold for c programming identifier
 
-## 0.1.12 - Add Base Markdown Syntax
+## 0.1.13 - Add Base Markdown Syntax
 
 * Add Base Markdown Syntax
