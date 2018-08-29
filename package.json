@@ -4,7 +4,7 @@
   "description": "A Visual Studio Code theme based on the colors used in the Chester Atom Syntax Theme. Optimized for use with the Operator Mono typeface.",
   "version": "0.1.12",
   "icon": "Images/icon.jpg",
-  "publisher": "chriseckenrode <chriseckenrode@me.com>",
+  "publisher": "chriseckenrode",
   "engines": {
     "vscode": "^1.6.0"
   },
