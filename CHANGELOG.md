@@ -36,3 +36,7 @@
 ## 0.1.13 - Add Base Markdown Syntax
 
 * Add Base Markdown Syntax
+
+## 0.1.14 - Add highlighting for JS `this` Keyword
+
+* Add highlighting for JS `this` Keyword
