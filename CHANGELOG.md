@@ -40,3 +40,7 @@
 ## 0.1.14 - Add highlighting for JS `this` Keyword
 
 * Add highlighting for JS `this` Keyword
+
+## 0.1.15 - Improve treeview selected working file contrast
+
+* Improve treeview selected working file contrast

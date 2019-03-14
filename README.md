@@ -26,6 +26,6 @@ I personally develop primarily HTML, CSS, and JavaScript. So I very much welcome
 
 * Christian Eckenrode
 
-  * [Github](https://github.com/ceckenrode/)
-  * [Twitter](https://twitter.com/cseckenrode/)
-  * [LinkedIn](https://www.linkedin.com/in/christianeckenrode/)
+  * [Github](eck.im/github)
+  * [Twitter](eck.im/twitter)
+  * [LinkedIn](eck.im/linkedin)
