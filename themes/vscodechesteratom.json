@@ -16,6 +16,8 @@
     "input.background": "#242D38",
     "input.border": "#37404E",
     "list.focusBackground": "#215D8C",
+    "list.activeSelectionBackground": "#222a34",
+    "list.inactiveSelectionBackground": "#222a34",
     "tab.inactiveBackground": "#242D38",
     "editorGroupHeader.tabsBackground": "#212934",
     "titleBar.activeBackground": "#242D38",
